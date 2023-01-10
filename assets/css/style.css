@@ -1,23 +1,4 @@
 ﻿
-/*=============================================================
-    Authour URL: www.designbootstrap.com
-    
-    http://www.designbootstrap.com/
-
-    License: MIT
-
-    http://opensource.org/licenses/MIT
-
-    100% Free To use For Personal And Commercial Use.
-
-    IN EXCHANGE JUST TELL PEOPLE ABOUT THIS WEBSITE
-   
-========================================================  */
-
-
-/* =============================================================
-   GENERAL STYLES
- ============================================================ */
 
 @import url(http://fonts.googleapis.com/css?family=Roboto); /* FREE GOOGLE FONT */
 
@@ -41,9 +22,9 @@ body {
 .page-head-line {
     font-weight: 900;
     padding-bottom: 20px;
-    border-bottom: 2px solid #F0677C;
+    border-bottom: 2px solid #172b3f;
     text-transform: uppercase;
-    color: #F0677C;
+    color: #172b3f;
     font-size: 20px;
     margin-bottom: 40px;
 }
@@ -70,15 +51,15 @@ margin-bottom: 20px;
 color: #fff;
 text-align: center;
 cursor:pointer;
-background-color:#F0677C;
+background-color:#172b3f;
 -webkit-border-radius:50%;
     -moz-border-radius:50%;
 }
 /* =============================================================
-   HEADER SECTION STYLES
+   HEADER SECTION STYLES #1c1847
  ============================================================ */
 header {
-    background-color: #F0677C;
+    background-color: #172b3f;
     color: #fff;
     padding: 10px;
     text-align: right;
@@ -109,7 +90,7 @@ header {
     -moz-border-radius: 50%;
     height: 60px;
     width: 60px;
-    background-color: #F0677C;
+    background-color: #172b3f;
     color: #fff;
 }
 
@@ -128,7 +109,7 @@ header {
 
     .user-settings-wrapper .nav > li > a:hover,.user-settings-wrapper .nav > li > a:focus {
         text-decoration: none;
-        background-color: #C36464!important;
+        background-color: #1c1847!important;
     }
 
     .user-settings-wrapper img {
@@ -169,24 +150,24 @@ header {
 }
 
 .menu-top-active {
-    background-color: #C36464;
+    background-color: #1c1847;
 }
 
 .menu-section .nav > li > a:hover,.menu-section .nav > li > a:focus {
-    background-color: #F0677C!important;
+    background-color: #172b3f!important;
 }
 
 .menu-section .dropdown-menu > li > a:hover,.menu-section .dropdown-menu > li > a:focus {
-    background-color: #F0677C!important;
+    background-color: #172b3f!important;
 }
 
 .navbar-inverse {
-    background-color: #C36464;
+    background-color: #1c1847;
     border-color: transparent;
 }
 
 .navbar-toggle {
-    background-color: #F0677C;
+    background-color: #172b3f;
     border: 1px solid #fff;
 }
 
@@ -200,7 +181,7 @@ footer {
     padding: 10px;
     color: #fff;
     font-size: 12px;
-    background-color: #C36464;
+    background-color: #1c1847;
 }
 
     footer a, footer a:hover {
